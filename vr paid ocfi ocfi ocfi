@@ -203,8 +203,8 @@ local guiTheme={
 
 local accessorylimbs={
 
-	{meshid="11263221350",textureid="11263219250",C0=angles(1.5707963267948966,0,1.5707963267948966),Name="Left Arm"},
-	{meshid="11159370334",textureid="11159284657",C0=angles(-1.5707963267948966,0,1.5707963267948966),Name="Right Arm"},
+	{meshid="",textureid="",C0=angles(1.5707963267948966,0,1.5707963267948966),Name="Left Arm"},
+	{meshid="",textureid="",C0=angles(-1.5707963267948966,0,1.5707963267948966),Name="Right Arm"},
 
 	{meshid="14768684979",textureid="14768683674",C0=angles(1.5707963267948966,0,1.5707963267948966),Name="Left Arm"},
 	{meshid="14768684979",textureid="14768683674",C0=angles(-1.5707963267948966,0,1.5707963267948966),Name="Right Arm"},
